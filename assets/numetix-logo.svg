@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 96" role="img" aria-labelledby="title desc">
+  <title id="title">Numetix Ltd logo</title>
+  <desc id="desc">Stylised N symbol with precision markers alongside the Numetix wordmark</desc>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2dd8a7" />
+      <stop offset="100%" stop-color="#1b9bbb" />
+    </linearGradient>
+  </defs>
+  <rect width="500" height="96" fill="none" />
+  <g transform="translate(0 8)">
+    <path d="M32 8h20l36 44V8h20v72h-20L52 36v44H32z" fill="url(#grad)" />
+    <circle cx="32" cy="8" r="6" fill="#2dd8a7" opacity="0.45" />
+    <circle cx="108" cy="80" r="6" fill="#1b9bbb" opacity="0.45" />
+    <line x1="16" y1="80" x2="120" y2="80" stroke="#2dd8a7" stroke-width="2" stroke-dasharray="6 6" opacity="0.6" />
+  </g>
+  <text x="170" y="58" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="40" fill="#0f172a">
+    Numetix
+  </text>
+  <text x="172" y="80" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="500" font-size="16" letter-spacing="0.09em" fill="#1b9bbb">
+    PRECISION IN EVERY DECISION
+  </text>
+</svg>
